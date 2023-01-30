@@ -1,0 +1,24 @@
+{
+  "name": "receipe-voting-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahshahid95/receipe-voting-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdullahshahid95/receipe-voting-nodejs/issues"
+  },
+  "homepage": "https://github.com/abdullahshahid95/receipe-voting-nodejs#readme",
+  "dependencies": {
+    "fastify": "^4.12.0",
+    "knex": "^2.4.2",
+    "mysql": "^2.18.1"
+  }
+}
